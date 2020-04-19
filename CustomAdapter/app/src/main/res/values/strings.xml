@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CustomAdapter</string>
+    <string-array name="district">
+
+        <item>Barisal</item>
+        <item>Cumilla</item>
+        <item>Chandpur</item>
+        <item>Dhaka</item>
+        <item>Feni</item>
+        <item>Gazipur</item>
+        <item>Habiganj</item>
+        <item>Jessore</item>
+        <item>Khulna</item>
+        <item>Lokkhipur</item>
+        <item>Mymensingh</item>
+        <item>Noakhali</item>
+        <item>Pabna</item>
+
+    </string-array>
+</resources>
